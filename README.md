@@ -4,7 +4,7 @@
 
 - [Active Directory Home Lab](xxx.com) - 
 - [Phishing Investigation](xxx.com) - 
-- [Network Traffic Capturing with wireshark & tcpdump](xxx.com)
+- [Network Traffic Analysis](xxx.com)
 - [SQL](xxx.com)
 - [python](xxx.com)
 - [Window Defender and Firewall Configuration](xxx.com)
