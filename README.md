@@ -78,8 +78,8 @@
 
 <h2>Certifications</h2>
 
-- Blue Team level 1 (BTL1) Certificate
-- Google Cybersecurity Professional Certificate
+- Blue Team level 1 (BTL1) Certificate [Credential ID: 706556601](xxx.com)
+- Google Cybersecurity Professional Certificate [Credential ID: PRWRF38THH9B](xxx.com)
 
   
 
