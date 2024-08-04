@@ -33,9 +33,9 @@
 
 - <b>Phishing Analysis</b>
   - [Categorizing Phishing Emails](https://github.com/cybersoel/CategorizingPhishingEmails)
-  - [Manual Artifact Extraction](https://elearning.securityblue.team/public/lab-certificate/bc929b74-45e8-4af2-b420-654145e59431)
-  - [Email Attachment Analysis](https://elearning.securityblue.team/public/lab-certificate/d8eb641e-a2d9-4c69-960f-76a33b7cc2c0)
-  - [Phishing Response Capstone](https://elearning.securityblue.team/public/lab-certificate/be94c56d-de8e-4ea4-b550-869942118636)
+  - [Manual Artifact Extraction](https://github.com/cybersoel/ManualArtifactExtraction)
+  - [Email Attachment Analysis](https://github.com/cybersoel/EmailAttachmentAnalysis)
+  - [Phishing Response Capstone](https://github.com/cybersoel/PhishingResponseCapstone)
 
 - <b>Digital Forensics</b>
   - [Identifying File Systems](xxx.com)
