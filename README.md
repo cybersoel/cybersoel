@@ -13,7 +13,7 @@
 - [PfSense Firewall VM](xxx.com)
   - Created a pfSense virtual machine to function as a firewall. Experimented with firewall rules to allow and block network traffic
 - [Lab: Nessus Essential Vulnerability Scanner](xxx.com)
-  - Performed non-credentialed and credentialed vulnerability scans on a vulnerable VM, followed by the remediation process. Additionally, conducted a vulnerability scan on a Windows XP Professional VM as a bonus experiment.
+  - Executed unauthenticated and authenticated vulnerability scans on a purposefully vulnerable VM using industry-standard tools. Analyzed results for critical vulnerabilities, attack surfaces, and CIA triad impacts. Implemented a strategic remediation plan addressing identified weaknesses through patch management and security hardening. Additionally, performed a vulnerability assessment on a legacy Windows XP VM to highlight end-of-life system risks.
 - [MISP (Malware Information Sharing Platform) deployment ](xxx.com)
   - Deployed a MISP test environment and explored user and organization management, dashboard widgets, importing threat feeds, and creating events.
 - [Wireshark lab: Telnet sniffing](xxx.com)
