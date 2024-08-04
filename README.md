@@ -1,6 +1,6 @@
-<h1>Hi, I'm Soel!
+<h1>Hi, I'm Soel! <br/>Aspiring SOC Analyst</a> | Cybersecurity Enthusiast</a></h1>
 
-<h2> Cybersecurity Projects:</h2>
+<h2> My Projects:</h2>
 
 - [Active Directory Home Lab](xxx.com) - 
 - [Phishing Investigation](xxx.com) - 
@@ -18,20 +18,15 @@
 <h2>Certifications</h2>
 
 - Google Cybersecurity Professional Certificate
-- Blue Team level one (currently enrolled) 3/8 domain completed
+- Blue Team level 1 (BTL1) Certificate
   
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SoelKwun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[linkedin]: https://linkedin.com/in/soel-kwun-314485282/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
