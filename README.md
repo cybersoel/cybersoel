@@ -14,16 +14,16 @@
   - Performed non-credentialed and credentialed vulnerability scans on a vulnerable VM, followed by the remediation process. Additionally, conducted a vulnerability scan on a Windows XP Professional VM as a bonus experiment.
 - [Lab: Malware Information Sharing Platform (MISP) deployment ](xxx.com)
   - Deployed a MISP test environment and explored user and organization management, dashboard widgets, importing threat feeds, and creating events.
-- [tbd](xxx.com)
-  - 
-- [tbd](xxx.com)
-  - 
-- [tbd](xxx.com)
-  - 
-- [tbd](xxx.com)
-  - 
-- [tbd](xxx.com)
-  - 
+- [Wireshark lab: Telnet sniffing](xxx.com)
+  - Captured Telnet network traffic between Ubuntu and Windows 10 VMs using Wireshark to sniff credentials. Demonstrated why Telnet is not secure and highlighted the importance of using SSH.
+- [Python: SHA1 Password Exploitation](xxx.com)
+  - Built a SHA1 password cracker in Python capable of performing dictionary attacks.
+- [Recovering a JPG file from a RAM dump](xxx.com)
+  - Performed a manual extraction of a target JPG file using a basic hex editor tool. This process involved identifying the standard JPG header (also known as the magic number) and footer (trailer).
+- [Memory Forensics: Volatility 3](xxx.com)
+  - Explored various plugins of Volatility 3, including windows.pslist for retrieving process list,  windows.cmdline for checking executable run options, windows.netstat for finding active network connections, windows.hashdump for finding local user password hash, and windows.registry.printkey for analyzing a specific Registry key from RAM.
+- [Lab: Splunk (SIEM) & Snort (NIDPS)](xxx.com)
+  - Coming soon!
 
 <h2>🌱 I'm currently working on ...</h2>
 
