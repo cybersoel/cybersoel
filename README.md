@@ -14,7 +14,7 @@
   - Created a pfSense virtual machine to function as a firewall. Experimented with firewall rules to allow and block network traffic
 - [Lab: Nessus Essential Vulnerability Scanner](xxx.com)
   - Performed non-credentialed and credentialed vulnerability scans on a vulnerable VM, followed by the remediation process. Additionally, conducted a vulnerability scan on a Windows XP Professional VM as a bonus experiment.
-- [Lab: Malware Information Sharing Platform (MISP) deployment ](xxx.com)
+- [Lab: MISP (Malware Information Sharing Platform) deployment ](xxx.com)
   - Deployed a MISP test environment and explored user and organization management, dashboard widgets, importing threat feeds, and creating events.
 - [Wireshark lab: Telnet sniffing](xxx.com)
   - Captured Telnet network traffic between Ubuntu and Windows 10 VMs using Wireshark to sniff credentials. Demonstrated why Telnet is not secure and highlighted the importance of using SSH.
