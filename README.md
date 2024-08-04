@@ -2,23 +2,42 @@
 
 <h2> My Projects:</h2>
 
-- [Active Directory Home Lab](xxx.com) - 
-- [Phishing Investigation](xxx.com) - 
+- [Active Directory Home Lab](xxx.com)
+  - Installed Active Directory using Oracle VM VirtualBox and utilized PowerShell automation scripts to create Active Directory users.
+- [Lab: Azure Entra & AD Connect](xxx.com)
+  - Built a traditional Active Directory lab in Azure and synchronized it with Azure AD.
 - [Network Traffic Analysis](xxx.com)
+  - 
 - [SQL](xxx.com)
+  - 
 - [python](xxx.com)
+  - 
 - [Window Defender and Firewall Configuration](xxx.com)
+  - 
 - [tbd](xxx.com)
+  - 
 - [tbd](xxx.com)
+  - 
 - [tbd](xxx.com)
+  - 
 - [tbd](xxx.com)
+  - 
 - [tbd](xxx.com)
+  - 
+
+<h2>🌱 I'm currently working on ...</h2>
+
+- ejPT(Pentester) Certification
+- CompTIA Security+
+- Splunk Core Certified User
+
 
 
 <h2>Certifications</h2>
 
-- Google Cybersecurity Professional Certificate
 - Blue Team level 1 (BTL1) Certificate
+- Google Cybersecurity Professional Certificate
+
   
 
 <h2> 🤳 Connect with me:</h2>
