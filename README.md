@@ -9,7 +9,7 @@
 - [Azure Sentinel (SIEM) Lab](xxx.com)
   - Created a vulnerable VM in Azure and analyzed/mapped it using Sentinel (SIEM). Utilized PowerShell to invoke web requests to third-party APIs for log enrichment
 - [Lab: Azure Entra & AD Connect](xxx.com)
-  - Built a traditional Active Directory lab in Azure and synchronized it with Azure AD.
+  - Deployed a traditional Active Directory environment with dual domain controllers on Azure VMs, then configured Azure AD Connect to synchronize user accounts and groups with Azure Active Directory for cloud-based identity management.
 - [PfSense Firewall VM](xxx.com)
   - Deployed a pfSense virtual appliance as a network security gateway. Reconfigured the host's default gateway to route traffic through the pfSense VM, enhancing network segmentation. Engineered granular firewall rules using stateful packet inspection, adhering to the principle of least privilege. Implemented a hierarchical rule structure to optimize firewall performance and reduce the attack surface.
 - [Lab: Nessus Essential Vulnerability Scanner](xxx.com)
