@@ -21,7 +21,7 @@
 - [Python: SHA1 Password Exploitation](xxx.com)
   - Developed a custom password cracking tool in Python targeting SHA1 hashed passwords. Implemented a dictionary attack method to exploit weak password practices. This project demonstrates the vulnerability of outdated hashing algorithms and highlights the importance of strong password policies and modern cryptographic techniques to enhance authentication security.
 - [Recovering a JPG file from a RAM dump](xxx.com)
-  - Performed a manual extraction of a target JPG file using a basic hex editor tool. This process involved identifying the standard JPG header (also known as the magic number) and footer (trailer).
+  - Conducted memory forensics on a RAM dump using manual file carving techniques. Employed a hex editor to locate and extract a JPG file by identifying its signature (header and footer). This demonstrates skills in volatile memory analysis, data recovery, and understanding of file structures crucial for digital investigations and incident response.
 - [Volatility 3 : Memory Forensics](xxx.com)
   - Explored various plugins of Volatility 3, including windows.pslist for retrieving process list,  windows.cmdline for checking executable run options, windows.netstat for finding active network connections, windows.hashdump for finding local user password hash, and windows.registry.printkey for analyzing a specific Registry key from RAM.
 - [Lab: Splunk(SIEM) & Snort(NIDPS) integration](xxx.com)
