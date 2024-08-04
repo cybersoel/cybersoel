@@ -24,10 +24,46 @@
   - Explored various plugins of Volatility 3, including windows.pslist for retrieving process list,  windows.cmdline for checking executable run options, windows.netstat for finding active network connections, windows.hashdump for finding local user password hash, and windows.registry.printkey for analyzing a specific Registry key from RAM.
 - [Lab: Splunk(SIEM) & Snort(NIDPS) integration](xxx.com)
   - Coming soon!
-- [Autopsy: Digital Forensics Analysis)](xxx.com)
+- [Autopsy: Digital Forensics Analysis](xxx.com)
   - Coming soon!
 - [Malware Analysis Lab](xxx.com)
   - Coming soon!
+
+<h2> Other labs and courses completed:</h2>
+
+- <b>Phishing Analysis</b>
+  - [Categorizing Phishing Emails](xxx.com)
+  - [Manual Artifact Extraction](xxx.com)
+  - [Email Attachment Analysis](xxx.com)
+  - [Phishing Response Capstone](xxx.com)
+
+- <b>Digital Forensics</b>
+  - [Identifying File Systems](xxx.com)
+  - [FTK Imager, ProcDump, and KAPE](xxx.com)
+  - [Analyzing jumplists, LNK files, and prefetch.](xxx.com)
+  - [Analyzing browser-based artifacts](xxx.com)
+  - [Analyzing Recycle Bin with RBCmd.exe](xxx.com)
+  - [Volatility 2 For Memory Analysis](xxx.com)
+  - [Volatility 3 Workbench Analysis](xxx.com)
+  - [Autopsy For Disk Analysis](xxx.com)
+  
+- [Identifying File Systems](xxx.com)
+  - Coming soon!
+- [Malware Analysis Lab](xxx.com)
+  - Coming soon!
+- [Malware Analysis Lab](xxx.com)
+  - Coming soon!
+- [Malware Analysis Lab](xxx.com)
+  - Coming soon!
+- [Malware Analysis Lab](xxx.com)
+  - Coming soon!
+- [Malware Analysis Lab](xxx.com)
+  - Coming soon!
+- [Malware Analysis Lab](xxx.com)
+  - Coming soon!
+- [Malware Analysis Lab](xxx.com)
+  - Coming soon!
+
 
 <h2>🌱 I'm currently working on ...</h2>
 
