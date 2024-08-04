@@ -7,7 +7,7 @@
 - [Active Directory Home Lab](xxx.com)
   - Set up a virtualized Active Directory domain controller using Oracle VM VirtualBox, then leveraged PowerShell scripting to automate bulk user account creation and management in the directory service.
 - [Azure Sentinel (SIEM) Lab](xxx.com)
-  - Created a vulnerable VM in Azure and analyzed/mapped it using Sentinel (SIEM). Utilized PowerShell to invoke web requests to third-party APIs for log enrichment
+  - Deployed a honeypot VM in Azure to attract RDP brute force attacks. Implemented a PowerShell script to monitor Windows Event Logs for failed login attempts and enrich the data using third-party geolocation APIs. Configured Azure Log Analytics to ingest the enhanced logs and utilized Azure Sentinel (SIEM) to analyze/map the inbound global RDP attacks.
 - [Lab: Azure Entra & AD Connect](xxx.com)
   - Deployed a traditional Active Directory environment with dual domain controllers on Azure VMs, then configured Azure AD Connect to synchronize user accounts and groups with Azure Active Directory for cloud-based identity management.
 - [PfSense Firewall VM](xxx.com)
