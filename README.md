@@ -11,7 +11,7 @@
 - [Lab: Azure Entra & AD Connect](xxx.com)
   - Built a traditional Active Directory lab in Azure and synchronized it with Azure AD.
 - [PfSense Firewall VM](xxx.com)
-  - Created a pfSense virtual machine to function as a firewall. Experimented with firewall rules to allow and block network traffic
+  - Deployed a pfSense virtual appliance as a network security gateway. Reconfigured the host's default gateway to route traffic through the pfSense VM, enhancing network segmentation. Engineered granular firewall rules using stateful packet inspection, adhering to the principle of least privilege. Implemented a hierarchical rule structure to optimize firewall performance and reduce the attack surface
 - [Lab: Nessus Essential Vulnerability Scanner](xxx.com)
   - Executed unauthenticated and authenticated vulnerability scans on a purposefully vulnerable VM using industry-standard tools. Analyzed results for critical vulnerabilities, attack surfaces, and CIA triad impacts. Implemented a strategic remediation plan addressing identified weaknesses through patch management and security hardening. Additionally, performed a vulnerability assessment on a legacy Windows XP VM to highlight end-of-life system risks.
 - [MISP (Malware Information Sharing Platform) deployment ](xxx.com)
