@@ -19,7 +19,7 @@
 - [Wireshark lab: Telnet sniffing](xxx.com)
   - Conducted a network packet capture using Wireshark to demonstrate the vulnerability of Telnet protocol. Intercepted unencrypted credentials transmitted between Ubuntu and Windows 10 virtual machines, showcasing the risks of cleartext communication. Emphasized the importance of secure protocols like SSH for remote access to prevent man-in-the-middle attacks and credential theft.
 - [Python: SHA1 Password Exploitation](xxx.com)
-  - Built a SHA1 password cracker in Python capable of performing dictionary attacks.
+  - Developed a custom password cracking tool in Python targeting SHA1 hashed passwords. Implemented a dictionary attack method to exploit weak password practices. This project demonstrates the vulnerability of outdated hashing algorithms and highlights the importance of strong password policies and modern cryptographic techniques to enhance authentication security.
 - [Recovering a JPG file from a RAM dump](xxx.com)
   - Performed a manual extraction of a target JPG file using a basic hex editor tool. This process involved identifying the standard JPG header (also known as the magic number) and footer (trailer).
 - [Volatility 3 : Memory Forensics](xxx.com)
