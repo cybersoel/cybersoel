@@ -17,7 +17,7 @@
 - [MISP (Malware Information Sharing Platform) deployment ](xxx.com)
   - Implemented a Malware Information Sharing Platform (MISP) in a test environment to enhance threat intelligence capabilities. Explored access control through user and organization management, customized threat visualization using dashboard widgets, and strengthened the defense posture by importing external threat feeds. Practiced incident response by creating and sharing cyber threat events, contributing to improved situational awareness and collaborative defense strategies.
 - [Wireshark lab: Telnet sniffing](xxx.com)
-  - Captured Telnet network traffic between Ubuntu and Windows 10 VMs using Wireshark to sniff credentials. Demonstrated why Telnet is not secure and highlighted the importance of using SSH.
+  - Conducted a network packet capture using Wireshark to demonstrate the vulnerability of Telnet protocol. Intercepted unencrypted credentials transmitted between Ubuntu and Windows 10 virtual machines, showcasing the risks of cleartext communication. Emphasized the importance of secure protocols like SSH for remote access to prevent man-in-the-middle attacks and credential theft.
 - [Python: SHA1 Password Exploitation](xxx.com)
   - Built a SHA1 password cracker in Python capable of performing dictionary attacks.
 - [Recovering a JPG file from a RAM dump](xxx.com)
