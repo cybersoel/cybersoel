@@ -32,10 +32,10 @@
 <h2> Other labs and courses completed:</h2>
 
 - <b>Phishing Analysis</b>
-  - [Categorizing Phishing Emails](xxx.com)
-  - [Manual Artifact Extraction](xxx.com)
-  - [Email Attachment Analysis](xxx.com)
-  - [Phishing Response Capstone](xxx.com)
+  - [Categorizing Phishing Emails](https://elearning.securityblue.team/public/lab-certificate/56995283-fa59-46dd-bde5-09b583c80cec)
+  - [Manual Artifact Extraction](https://elearning.securityblue.team/public/lab-certificate/bc929b74-45e8-4af2-b420-654145e59431)
+  - [Email Attachment Analysis](https://elearning.securityblue.team/public/lab-certificate/d8eb641e-a2d9-4c69-960f-76a33b7cc2c0)
+  - [Phishing Response Capstone](https://elearning.securityblue.team/public/lab-certificate/be94c56d-de8e-4ea4-b550-869942118636)
 
 - <b>Digital Forensics</b>
   - [Identifying File Systems](xxx.com)
@@ -78,8 +78,8 @@
 
 <h2>Certifications</h2>
 
-- Blue Team level 1 (BTL1) Certificate [Credential ID: 706556601](xxx.com)
-- Google Cybersecurity Professional Certificate [Credential ID: PRWRF38THH9B](xxx.com)
+- Blue Team level 1 (BTL1) Certificate [Credential ID: 706556601](https://drive.google.com/file/d/1WYsRoQLK4LSxpi8TXxHo49TokIsgD-QR/view?usp=sharing)
+- Google Cybersecurity Professional Certificate [Credential ID: PRWRF38THH9B](https://www.coursera.org/account/accomplishments/specialization/certificate/PRWRF38THH9B)
 
   
 
@@ -91,9 +91,8 @@
 [linkedin]: https://linkedin.com/in/soel-kwun-314485282/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cybersoel/cybersoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
