@@ -60,11 +60,18 @@
   - [DeepBlueCLI For Event Log Analysis](xxx.com)
   - [TheHive: Case Management](xxx.com)
 
+- <b>Hack the Box</b>
+  - [Intro to Network Traffic Analysis by TreyCraf7](xxx.com)
+
+- <b>Splunk</b>
+  - [Intro to Splunk (eLearning)](xxx.com)
+
+- <b>IBM</b>
+  - [Microsoft Windows Defender and Firewall for Beginner](xxx.com)
 
 <h2>🌱 I'm currently working on ...</h2>
 
 - ejPT(Pentester) Certification
-- CompTIA Security+
 - Splunk Core Certified User
 
 
