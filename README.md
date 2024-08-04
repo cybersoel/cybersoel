@@ -73,7 +73,7 @@
 
 <h2>🌱 I'm currently working on ...</h2>
 
-- ejPT(Pentester) Certification
+- ejPT(eLearnSecurity Junior Penetration Tester) Certification
 - Splunk Core Certified User
 
 
