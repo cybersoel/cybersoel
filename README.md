@@ -5,7 +5,7 @@
 <h2> My Projects:</h2>
 
 - [Active Directory Home Lab](xxx.com)
-  - Installed Active Directory using Oracle VM VirtualBox and utilized PowerShell automation scripts to create Active Directory users.
+  - Set up a virtualized Active Directory domain controller using Oracle VM VirtualBox, then leveraged PowerShell scripting to automate bulk user account creation and management in the directory service.
 - [Azure Sentinel (SIEM) Lab](xxx.com)
   - Created a vulnerable VM in Azure and analyzed/mapped it using Sentinel (SIEM). Utilized PowerShell to invoke web requests to third-party APIs for log enrichment
 - [Lab: Azure Entra & AD Connect](xxx.com)
