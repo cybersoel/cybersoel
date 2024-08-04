@@ -15,7 +15,7 @@
 - [Lab: Nessus Essential Vulnerability Scanner](xxx.com)
   - Executed unauthenticated and authenticated vulnerability scans on a purposefully vulnerable VM using industry-standard tools. Analyzed results for critical vulnerabilities, attack surfaces, and CIA triad impacts. Implemented a strategic remediation plan addressing identified weaknesses through patch management and security hardening. Additionally, performed a vulnerability assessment on a legacy Windows XP VM to highlight end-of-life system risks.
 - [MISP (Malware Information Sharing Platform) deployment ](xxx.com)
-  - Deployed a MISP test environment and explored user and organization management, dashboard widgets, importing threat feeds, and creating events.
+  - Implemented a Malware Information Sharing Platform (MISP) in a test environment to enhance threat intelligence capabilities. Explored access control through user and organization management, customized threat visualization using dashboard widgets, and strengthened the defense posture by importing external threat feeds. Practiced incident response by creating and sharing cyber threat events, contributing to improved situational awareness and collaborative defense strategies.
 - [Wireshark lab: Telnet sniffing](xxx.com)
   - Captured Telnet network traffic between Ubuntu and Windows 10 VMs using Wireshark to sniff credentials. Demonstrated why Telnet is not secure and highlighted the importance of using SSH.
 - [Python: SHA1 Password Exploitation](xxx.com)
