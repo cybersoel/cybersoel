@@ -20,9 +20,13 @@
   - Built a SHA1 password cracker in Python capable of performing dictionary attacks.
 - [Recovering a JPG file from a RAM dump](xxx.com)
   - Performed a manual extraction of a target JPG file using a basic hex editor tool. This process involved identifying the standard JPG header (also known as the magic number) and footer (trailer).
-- [Memory Forensics: Volatility 3](xxx.com)
+- [Volatility 3 : Memory Forensics](xxx.com)
   - Explored various plugins of Volatility 3, including windows.pslist for retrieving process list,  windows.cmdline for checking executable run options, windows.netstat for finding active network connections, windows.hashdump for finding local user password hash, and windows.registry.printkey for analyzing a specific Registry key from RAM.
-- [Lab: Splunk (SIEM) & Snort (NIDPS)](xxx.com)
+- [Lab: Splunk(SIEM) & Snort(NIDPS) integration](xxx.com)
+  - Coming soon!
+- [Autopsy: Digital Forensics Analysis)](xxx.com)
+  - Coming soon!
+- [Malware Analysis Lab](xxx.com)
   - Coming soon!
 
 <h2>🌱 I'm currently working on ...</h2>
