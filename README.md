@@ -46,23 +46,19 @@
   - [Volatility 2 For Memory Analysis](xxx.com)
   - [Volatility 3 Workbench Analysis](xxx.com)
   - [Autopsy For Disk Analysis](xxx.com)
-  
-- [Identifying File Systems](xxx.com)
-  - Coming soon!
-- [Malware Analysis Lab](xxx.com)
-  - Coming soon!
-- [Malware Analysis Lab](xxx.com)
-  - Coming soon!
-- [Malware Analysis Lab](xxx.com)
-  - Coming soon!
-- [Malware Analysis Lab](xxx.com)
-  - Coming soon!
-- [Malware Analysis Lab](xxx.com)
-  - Coming soon!
-- [Malware Analysis Lab](xxx.com)
-  - Coming soon!
-- [Malware Analysis Lab](xxx.com)
-  - Coming soon!
+
+- <b>SIEM & Log Analysis</b>
+  - [Windows Event Log Analysis](xxx.com)
+  - [Splunk Investigation 1](xxx.com)
+  - [Splunk Investigation 2](xxx.com)
+  - [Splunk Investigation 3](xxx.com)
+  - [Splunk Investigation 4](xxx.com)
+
+- <b>Incident Response</b>
+  - [Wireshark Network Investigations](xxx.com)
+  - [CMD and PowerShell For Response](xxx.com)
+  - [DeepBlueCLI For Event Log Analysis](xxx.com)
+  - [TheHive: Case Management](xxx.com)
 
 
 <h2>🌱 I'm currently working on ...</h2>
