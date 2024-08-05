@@ -23,7 +23,7 @@
 - [Recovering a JPG file from a RAM dump](xxx.com)
   - Conducted memory forensics on a RAM dump using manual file carving techniques. Employed a hex editor to locate and extract a JPG file by identifying its signature (header and footer). This demonstrates skills in volatile memory analysis, data recovery, and understanding of file structures crucial for digital investigations and incident response.
 - [Volatility 3 : Memory Forensics](xxx.com)
-  - Conducted memory forensics using Volatility 3 using various plugins. Analyzed process execution, command-line arguments, network connections, user credentials, and registry keys from a memory dump. This demonstrates skills in digital forensics and post-exploitation artifact detection, which are crucial for understanding attacker behavior and system compromise indicators.
+  - Conducted memory forensics with Volatility 3 using various plugins. Analyzed process execution, command-line arguments, network connections, user credentials, and registry keys from a memory dump. This demonstrates skills in digital forensics and post-exploitation artifact detection, which are crucial for understanding attacker behavior and system compromise indicators.
 - [Lab: Splunk(SIEM) & Snort(NIDPS) integration](xxx.com)
   - Coming soon!
 - [Autopsy: Digital Forensics Analysis](xxx.com)
