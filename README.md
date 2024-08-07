@@ -4,7 +4,7 @@
 
 <h2> My Projects:</h2>
 
-- [Active Directory Home Lab](xxx.com)
+- [Active Directory Home Lab](https://github.com/cybersoel/ActiveDirectoryLab)
   - Set up a virtualized Active Directory domain controller using Oracle VM VirtualBox, then leveraged PowerShell scripting to automate bulk user account creation and management in the directory service.
 - [Azure Sentinel (SIEM) Lab](xxx.com)
   - Deployed a honeypot VM in Azure to attract RDP brute force attacks. Implemented a PowerShell script to monitor Windows Event Logs for failed login attempts and enrich the data using third-party geolocation APIs. Configured Azure Log Analytics to ingest the enhanced logs and utilized Azure Sentinel (SIEM) to analyze/map the inbound global RDP attacks.
