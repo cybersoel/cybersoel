@@ -33,6 +33,14 @@
 
 <h2> Other labs and courses completed:</h2>
 
+- <b>DEF CON 32 (2024)</b>
+  - [Hands-On-Lab Workshop -"Botnet Deployment and Operation via c2 web server"](xxx.com)
+  - [Hands-On-Lab Workshop -"Threat Hunting with Fleet Management Platform"](xxx.com)
+  - [Creator Talk/Panel - Using AI Computer Visuon in Your OSINT Data Analysis](xxx.com)
+  - [Creator Talk/Panel - Introduction to IPv6](xxx.com)
+  - [Creator Talk/Panel - SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level](xxx.com)
+
+
 - <b>Phishing Analysis</b>
   - [Categorizing Phishing Emails](https://github.com/cybersoel/CategorizingPhishingEmails)
   - [Manual Artifact Extraction](https://github.com/cybersoel/ManualArtifactExtraction)
