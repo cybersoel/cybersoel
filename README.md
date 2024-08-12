@@ -36,9 +36,10 @@
 - <b>DEF CON 32 (2024)</b>
   - [Hands-On-Lab Workshop -"Botnet Deployment and Operation via c2 web server"](xxx.com)
   - [Hands-On-Lab Workshop -"Threat Hunting with Fleet Management Platform"](xxx.com)
-  - [Creator Talk/Panel - Using AI Computer Visuon in Your OSINT Data Analysis](xxx.com)
-  - [Creator Talk/Panel - Introduction to IPv6](xxx.com)
-  - [Creator Talk/Panel - SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level](xxx.com)
+  - [Creator Talk/Panel - Tunnel Vision: Exploring VPN Post-Exploitation Techniques by Ori David](xxx.com)
+  - [Creator Talk/Panel - Using AI Computer Visuon in Your OSINT Data Analysis by Mike Raggo](xxx.com)
+  - [Creator Talk/Panel - Introduction to IPv6 by Denis Smajlovic](xxx.com)
+  - [Creator Talk/Panel - SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level by Paul Gerste](xxx.com)
 
 
 - <b>Phishing Analysis</b>
