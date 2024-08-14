@@ -2,6 +2,13 @@
 
 <h2> This Page is Currently Under Construction :) </h2>
 
+<h2>Certifications</h2>
+
+- Blue Team level 1 (BTL1) Certificate [Credential ID: 706556601](https://drive.google.com/file/d/1WYsRoQLK4LSxpi8TXxHo49TokIsgD-QR/view?usp=sharing) ↗️
+- Google Cybersecurity Professional Certificate [Credential ID: PRWRF38THH9B](https://www.coursera.org/account/accomplishments/specialization/certificate/PRWRF38THH9B) ↗️
+
+
+
 <h2> My Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/cybersoel/ActiveDirectoryLab)
@@ -84,12 +91,6 @@
 
 - ejPT(eLearnSecurity Junior Penetration Tester) Certification
 - Splunk Core Certified User
-
-
-<h2>Certifications</h2>
-
-- Blue Team level 1 (BTL1) Certificate [Credential ID: 706556601](https://drive.google.com/file/d/1WYsRoQLK4LSxpi8TXxHo49TokIsgD-QR/view?usp=sharing) ↗️
-- Google Cybersecurity Professional Certificate [Credential ID: PRWRF38THH9B](https://www.coursera.org/account/accomplishments/specialization/certificate/PRWRF38THH9B) ↗️
 
   
 
