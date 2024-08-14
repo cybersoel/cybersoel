@@ -10,8 +10,9 @@
 - Splunk Core Certified User (10/01/2024)
 - CompTIA Security+ (10/18/2024)
 
+<h2>Participated in..</h2>
 
-
+- DEF CON 32 (2024)
 
 <h2> My Projects:</h2>
 
@@ -90,10 +91,6 @@
 
 - <b>IBM</b>
   - [Microsoft Windows Defender and Firewall for Beginner](xxx.com)
-
-<h2>🌱 I'm currently working on ...</h2>
-
-
   
 
 <h2> 🤳 Connect with me:</h2>
