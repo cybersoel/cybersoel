@@ -91,7 +91,13 @@
 
 - <b>IBM</b>
   - [Microsoft Windows Defender and Firewall for Beginner](xxx.com)
-  
+
+
+<h2>Education</h2>
+
+- Master of Fine Arts, New York University
+- Bachelor of Fine Arts, School of Visual Arts, NYC
+
 
 <h2> 🤳 Connect with me:</h2>
 
