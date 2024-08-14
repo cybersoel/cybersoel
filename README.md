@@ -6,6 +6,10 @@
 
 - Blue Team level 1 (BTL1) Certificate [Credential ID: 706556601](https://drive.google.com/file/d/1WYsRoQLK4LSxpi8TXxHo49TokIsgD-QR/view?usp=sharing) ↗️
 - Google Cybersecurity Professional Certificate [Credential ID: PRWRF38THH9B](https://www.coursera.org/account/accomplishments/specialization/certificate/PRWRF38THH9B) ↗️
+- ejPT(eLearnSecurity Junior Penetration Tester) Certification (10/20/2024)
+- Splunk Core Certified User (10/01/2024)
+- CompTIA Security+ (10/18/2024)
+
 
 
 
@@ -89,8 +93,6 @@
 
 <h2>🌱 I'm currently working on ...</h2>
 
-- ejPT(eLearnSecurity Junior Penetration Tester) Certification
-- Splunk Core Certified User
 
   
 
