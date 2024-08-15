@@ -35,12 +35,12 @@
 <h2> Other labs and courses completed:</h2>
 
 - <b>DEF CON 32 (2024)</b>
-  - [Hands-On-Lab Workshop -"Botnet Deployment and Operation via c2 web server"](xxx.com)
-  - [Hands-On-Lab Workshop -"Threat Hunting with Fleet Management Platform"](xxx.com)
-  - [Tunnel Vision: Exploring VPN Post-Exploitation Techniques by Ori David](xxx.com)
-  - [Using AI Computer Visuon in Your OSINT Data Analysis by Mike Raggo](xxx.com)
-  - [Introduction to IPv6 by Denis Smajlovic](xxx.com)
-  - [SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level by Paul Gerste](xxx.com)
+  - Hands-On-Lab Workshop -"Botnet Deployment and Operation via c2 web server"
+  - Hands-On-Lab Workshop -"Threat Hunting with Fleet Management Platform"
+  - Tunnel Vision: Exploring VPN Post-Exploitation Techniques by Ori David
+  - Using AI Computer Visuon in Your OSINT Data Analysis by Mike Raggo
+  - Introduction to IPv6 by Denis Smajlovic
+  - SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level by Paul Gerste
 
 
 - <b>Phishing Analysis</b>
