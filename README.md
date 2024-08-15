@@ -71,6 +71,7 @@
   - [CMD and PowerShell For Response](xxx.com)
   - [DeepBlueCLI For Event Log Analysis](xxx.com)
   - [TheHive: Case Management](xxx.com)
+  - [24-hour Incident Response](xxx.com)
 
 - <b>Hack the Box</b>
   - [Intro to Network Traffic Analysis by TreyCraf7](xxx.com)
