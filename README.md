@@ -74,13 +74,13 @@
   - [24-hour Incident Response](https://github.com/cybersoel/24-hour-Incident-Response)
 
 - <b>Hack the Box</b>
-  - [Intro to Network Traffic Analysis by TreyCraf7](xxx.com)
+  - [Intro to Network Traffic Analysis by TreyCraf7](https://github.com/cybersoel/Intro-to-Network-Traffic-Analysis-by-TreyCraf7)
 
 - <b>Splunk</b>
-  - [Intro to Splunk (eLearning)](xxx.com)
+  - [Intro to Splunk (eLearning)](https://github.com/cybersoel/Intro-to-Splunk-eLearning-)
 
 - <b>IBM</b>
-  - [Microsoft Windows Defender and Firewall for Beginner](xxx.com)
+  - [Microsoft Windows Defender and Firewall for Beginner](https://github.com/cybersoel/Microsoft-Windows-Defender-and-Firewall-for-Beginner)
 
 <h2>Certifications</h2>
 
