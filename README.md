@@ -1,7 +1,5 @@
 <h1>Hi, I'm Soel!👨‍💻 <br/>Aspiring SOC Analyst</a> | Cybersecurity Enthusiast</a></h1>
 
-<h2> This Page is Currently Under Construction :) </h2>
-
 
 <h2> My Projects:</h2>
 
