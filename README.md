@@ -50,28 +50,28 @@
   - [Phishing Response Capstone](https://github.com/cybersoel/PhishingResponseCapstone)
 
 - <b>Digital Forensics</b>
-  - [Identifying File Systems](xxx.com)
-  - [FTK Imager, ProcDump, and KAPE](xxx.com)
-  - [Analyzing jumplists, LNK files, and prefetch.](xxx.com)
-  - [Analyzing browser-based artifacts](xxx.com)
-  - [Analyzing Recycle Bin with RBCmd.exe](xxx.com)
-  - [Volatility 2 For Memory Analysis](xxx.com)
-  - [Volatility 3 Workbench Analysis](xxx.com)
-  - [Autopsy For Disk Analysis](xxx.com)
+  - [Identifying File Systems](https://github.com/cybersoel/IdentifyingFileSystems)
+  - [FTK Imager, ProcDump, and KAPE](https://github.com/cybersoel/FTKImagerProcDumpandKAPE)
+  - [Analyzing jumplists, LNK files, and prefetch.](https://github.com/cybersoel/AnalyzingjumplistsLNKfilesandprefetch)
+  - [Analyzing browser-based artifacts](https://github.com/cybersoel/Analyzingbrowserbasedartifacts)
+  - [Analyzing Recycle Bin with RBCmd.exe](https://github.com/cybersoel/AnalyzingRecycleBinwithRBCmd.exe)
+  - [Volatility 2 For Memory Analysis](https://github.com/cybersoel/Volatility-2-For-Memory-Analysis)
+  - [Volatility 3 Workbench Analysis](https://github.com/cybersoel/Volatility-3-Workbench-Analysis)
+  - [Autopsy For Disk Analysis](https://github.com/cybersoel/Autopsy-For-Disk-Analysis)
 
 - <b>SIEM & Log Analysis</b>
-  - [Windows Event Log Analysis](xxx.com)
-  - [Splunk Investigation 1](xxx.com)
-  - [Splunk Investigation 2](xxx.com)
-  - [Splunk Investigation 3](xxx.com)
-  - [Splunk Investigation 4](xxx.com)
+  - [Windows Event Log Analysis](https://github.com/cybersoel/Windows-Event-Log-Analysis)
+  - [Splunk Investigation 1](https://github.com/cybersoel/Splunk-Investigation-1)
+  - [Splunk Investigation 2](https://github.com/cybersoel/Splunk-Investigation-2)
+  - [Splunk Investigation 3](https://github.com/cybersoel/Splunk-Investigation-3)
+  - [Splunk Investigation 4](https://github.com/cybersoel/Splunk-Investigation-4)
 
 - <b>Incident Response</b>
-  - [Wireshark Network Investigations](xxx.com)
-  - [CMD and PowerShell For Response](xxx.com)
-  - [DeepBlueCLI For Event Log Analysis](xxx.com)
-  - [TheHive: Case Management](xxx.com)
-  - [24-hour Incident Response](xxx.com)
+  - [Wireshark Network Investigations](https://github.com/cybersoel/Wireshark-Network-Investigations)
+  - [CMD and PowerShell For Response](https://github.com/cybersoel/CMD-and-PowerShell-For-Response)
+  - [DeepBlueCLI For Event Log Analysis](https://github.com/cybersoel/DeepBlueCLI-For-Event-Log-Analysis)
+  - [TheHive: Case Management](https://github.com/cybersoel/TheHive-Case-Management)
+  - [24-hour Incident Response](https://github.com/cybersoel/24-hour-Incident-Response)
 
 - <b>Hack the Box</b>
   - [Intro to Network Traffic Analysis by TreyCraf7](xxx.com)
