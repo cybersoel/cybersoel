@@ -1,4 +1,4 @@
-<h1>Hi, I'm Soel!👨‍💻 <br/>Aspiring SOC Analyst</a> | Cybersecurity Enthusiast</a></h1>
+<h1>Hi, I'm Soel!👨‍💻 <br/>Aspiring SOC Analyst</a></h1>
 
 
 <h2> My Projects:</h2>
