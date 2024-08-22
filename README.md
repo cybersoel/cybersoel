@@ -29,7 +29,7 @@
 
 ### Upcoming Projects
 - Lab: Splunk(SIEM) & Snort(NIDPS) integration
-- Autopsy: Digital Forensics Analysis
+- Setting Up a DMZ Architecture with Cloud Services and Docker Containers
 - Malware Analysis Lab
 
 ## 📚 Specialized Training and Labs
