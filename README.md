@@ -1,5 +1,5 @@
 # Hi, I'm Soel! 👨‍💻 
-## Aspiring SOC Analyst
+## Aspiring Cybersecurity Analyst
 
 🛡️ Passionate about cybersecurity with a focus on threat detection, incident response, and digital forensics.
 
