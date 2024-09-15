@@ -5,14 +5,23 @@
 
 ## 🛠️ Key Skills
 - Network Security
-- SIEM (Azure Sentinel, Splunk)
-- Vulnerability Assessment
-- Digital Forensics
+- SIEM (Azure Sentinel, Cloudwatch, Splunk)
 - Incident Response
-- Python Scripting
-- Windows Server Administration
+- Cloud Computing
+- System Administration
+- Digital Forensics
+- Vulnerability Assessment
 
-## 🚀 Key Projects
+
+## 🚀 Advanced Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Cloud SOAR: Docker-Based SQL Injection Defense](https://github.com/cybersoel/soar-lab) | Building a Security Orchestration, Automation, and Response environment with automated threat detection and response | Oracle Cloud, Suricata, Wazuh, MISP, TheHive, Shuffle, Docker |
+| [AWS DMZ: CloudWatch Monitoring & Split-Tunnel VPN](https://github.com/cybersoel/dmz-lab) | Comprehensive DMZ setup with front-end and back-end firewalls, public-facing services, and secure remote access | AWS VPC, EC2, Security Groups, NACLs, VPN, CloudWatch |
+
+
+## 🚀 More Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -28,8 +37,6 @@
 | [Volatility 3: Memory Forensics](https://github.com/cybersoel/Volatility3MemoryForensics) | Analyzed process execution, network connections, and system artifacts from memory dumps | Volatility 3, Memory Forensics |
 
 ### Upcoming Projects
-- Lab: Splunk(SIEM) & Snort(NIDPS) integration
-- Setting Up a DMZ Architecture with Cloud Services and Docker Containers
 - Malware Analysis Lab
 
 ## 📚 Specialized Training and Labs
