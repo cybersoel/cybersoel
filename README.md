@@ -12,6 +12,13 @@
 - Digital Forensics
 - Vulnerability Assessment
 
+## 🏆 Certifications
+- Blue Team level 1 (BTL1) Certificate [Credential ID: 706556601](https://drive.google.com/file/d/1WYsRoQLK4LSxpi8TXxHo49TokIsgD-QR/view?usp=sharing) ↗️
+- Google Cybersecurity Professional Certificate [Credential ID: PRWRF38THH9B](https://www.coursera.org/account/accomplishments/specialization/certificate/PRWRF38THH9B) ↗️
+- ejPT(eLearnSecurity Junior Penetration Tester) Certification (Expected 11/20)
+- Splunk Core Certified User (Expected 09/01)
+- CompTIA Security+ (Expected 10/18)
+
 
 ## 🚀 Advanced Projects
 
@@ -38,6 +45,12 @@
 
 ### Upcoming Projects
 - Malware Analysis Lab
+
+
+
+## 🎓 Education
+- Master of Fine Arts, New York University
+- Bachelor of Fine Arts, School of Visual Arts, NYC
 
 ## 📚 Specialized Training and Labs
 
@@ -84,16 +97,6 @@
 - Introduction to IPv6
 - SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level
 
-## 🏆 Certifications
-- Blue Team level 1 (BTL1) Certificate [Credential ID: 706556601](https://drive.google.com/file/d/1WYsRoQLK4LSxpi8TXxHo49TokIsgD-QR/view?usp=sharing) ↗️
-- Google Cybersecurity Professional Certificate [Credential ID: PRWRF38THH9B](https://www.coursera.org/account/accomplishments/specialization/certificate/PRWRF38THH9B) ↗️
-- ejPT(eLearnSecurity Junior Penetration Tester) Certification (Expected 11/20)
-- Splunk Core Certified User (Expected 09/01)
-- CompTIA Security+ (Expected 10/18)
-
-## 🎓 Education
-- Master of Fine Arts, New York University
-- Bachelor of Fine Arts, School of Visual Arts, NYC
 
 ## 🤝 Connect with me
 [<img align="left" alt="SoelKwun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
