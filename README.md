@@ -24,8 +24,8 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| [Cloud SOAR: Docker-Based SQL Injection Defense](https://github.com/cybersoel/CloudDockerSoar) | Building a Security Orchestration, Automation, and Response environment with automated threat detection and response | Oracle Cloud, Suricata, Wazuh, MISP, TheHive, Shuffle, Docker |
-| [AWS DMZ: CloudWatch Monitoring & Split-Tunnel VPN](https://github.com/cybersoel/CorporateDMZAWS) | Comprehensive DMZ setup with front-end and back-end firewalls, public-facing services, and secure remote access | AWS VPC, EC2, Security Groups, NACLs, VPN, CloudWatch |
+| [Docker-Orchestrated SOAR Environment on Oracle Cloud](https://github.com/cybersoel/CloudDockerSoar) | Building a Security Orchestration, Automation, and Response environment with automated threat detection and response | Oracle Cloud, Suricata, Wazuh, MISP, TheHive, Shuffle, Docker |
+| [AWS Corporate DMZ Architecture with VPN and CloudWatch Security Monitoring](https://github.com/cybersoel/CorporateDMZAWS) | Comprehensive DMZ setup with front-end and back-end firewalls, public-facing services, and secure remote access | AWS VPC, EC2, Security Groups, NACLs, VPN, CloudWatch |
 
 
 ## 🚀 More Projects
