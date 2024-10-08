@@ -1,23 +1,13 @@
 # Hi, I'm Soel! 👨‍💻 
-## Aspiring Cybersecurity Analyst
+## Aspiring SOC Analyst
 
 🛡️ Passionate about cybersecurity with a focus on threat detection, incident response, and digital forensics.
-
-## 🛠️ Key Skills
-- Network Security
-- SIEM (Azure Sentinel, Cloudwatch, Splunk)
-- Incident Response
-- Cloud Computing
-- System Administration
-- Digital Forensics
-- Vulnerability Assessment
 
 ## 🏆 Certifications
 - Blue Team level 1 (BTL1) Certificate [Credential ID: 706556601](https://drive.google.com/file/d/1WYsRoQLK4LSxpi8TXxHo49TokIsgD-QR/view?usp=sharing) ↗️
 - Google Cybersecurity Professional Certificate [Credential ID: PRWRF38THH9B](https://www.coursera.org/account/accomplishments/specialization/certificate/PRWRF38THH9B) ↗️
-- ejPT(eLearnSecurity Junior Penetration Tester) Certification (Expected 11/20)
-- Splunk Core Certified User (Expected 09/01)
-- CompTIA Security+ (Expected 10/18)
+- Splunk Core Certified User
+- 
 
 
 ## 🚀 Advanced Projects
