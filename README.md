@@ -6,8 +6,8 @@
 ## 🏆 Certifications
 - Blue Team level 1 (BTL1) Certificate [Credential ID: 706556601](https://drive.google.com/file/d/1WYsRoQLK4LSxpi8TXxHo49TokIsgD-QR/view?usp=sharing) ↗️
 - Google Cybersecurity Professional Certificate [Credential ID: PRWRF38THH9B](https://www.coursera.org/account/accomplishments/specialization/certificate/PRWRF38THH9B) ↗️
-- Splunk Core Certified User
-- 
+- Splunk Core Certified User [Credly Badge](https://www.credly.com/badges/437a849e-eb16-4257-a8aa-4c4e0be1d171) ↗️
+- Fortinet Certified Cybersecurity Fundamentals [Credly Badge](https://www.credly.com/badges/2341f9b6-e592-4212-8730-ba0391706cae) ↗️
 
 
 ## 🚀 Advanced Projects
