@@ -1,4 +1,27 @@
-# Hi, I'm Soel! 👨‍💻 
+## 🚀 Tutorials
+
+Comprehensive tutorials for IT/Cybersecurity learners. Contact cybersoel@gmail.com for troubleshooting and support.
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [AWS Corporate DMZ Architecture with VPN and CloudWatch Security Monitoring (10-16+ hours)](https://github.com/cybersoel/CorporateDMZAWS) | Covers comprehensive DMZ setup with front-end and back-end firewalls, public-facing services, and secure remote access | AWS VPC, EC2, Security Groups, NACLs, VPN, CloudWatch |
+| [Docker-Orchestrated SOAR Environment on Oracle Cloud (15-30+ hours)](https://github.com/cybersoel/CloudDockerSoar) | Demonstrates building a Security Orchestration, Automation, and Response environment with automated threat detection and response | Oracle Cloud, Suricata, Wazuh, MISP, TheHive, Shuffle, Docker |
+| [Active Directory Home Lab and Automated User Management (5-6+ hours)](https://github.com/cybersoel/ActiveDirectoryLab) | Guides through setting up a virtualized AD domain controller and automating user account creation | Oracle VM VirtualBox, PowerShell |
+| [Azure Sentinel (SIEM) SOC honeypot lab (5-8+ hours)](https://github.com/cybersoel/AzureSentinelSIEMLab) | Explores deploying a honeypot VM, monitoring Windows Event Logs, and analyzing global RDP attacks | Azure, PowerShell, Log Analytics, Azure Sentinel |
+| [Dual-Domain Controller & Azure AD hybrid identity management with AD Connect (5-7+ hours)](https://github.com/cybersoel/LabAzureEntraADConnect) | Walks through deploying a traditional AD environment and configuring Azure AD Connect for cloud-based identity management | Azure VMs, Active Directory, Azure AD Connect |
+| [PfSense Firewall VM Deployment & Management (2-4 hours)](https://github.com/cybersoel/PfSenseFirewallVM) | Covers deploying pfSense as a network security gateway and implementing firewall rules | pfSense, Virtualization, Network Security |
+| [Win10 & WinXP multi-OS Vulnerability Management with Nessus Essential (5-7+ hours)](https://github.com/cybersoel/LabNessusEssentialVulnerabilityScanner) | Teaches executing vulnerability scans, analyzing results, and implementing remediation plans | Nessus, Vulnerability Assessment |
+| [MISP Deployment & Management (4-5+ hours)](https://github.com/cybersoel/MISPMalwareInformationSharingPlatformdeployment) | Guides through implementing a Malware Information Sharing Platform and exploring threat intelligence capabilities | MISP, Threat Intelligence |
+| [Network Analysis: Telnet sniffing with Wireshark (2-3 hours)](https://github.com/cybersoel/WiresharklabTelnetsniffing) | Demonstrates conducting network packet capture and intercepting unencrypted credentials | Wireshark, Network Analysis |
+| [Building SHA1 password cracker with Python (2-3 hours)](https://github.com/cybersoel/PythonSHA1PasswordExploitation) | Walks through developing a custom password cracking tool targeting SHA1 hashed passwords | Python, Cryptography |
+| [Recovering a JPG file from a RAM dump using basic hexeditor (2+ hours)](https://github.com/cybersoel/RecoveringaJPGfilefromaRAMdump) | Explores conducting memory forensics using manual file carving techniques | Digital Forensics, Hex Editor |
+| [Volatility 3: Memory Forensics and Analysis (5-6+ hours)](https://github.com/cybersoel/Volatility3MemoryForensics) | Covers analyzing process execution, network connections, and system artifacts from memory dumps | Volatility 3, Memory Forensics |
+
+### Upcoming Projects
+- Malware Analysis Lab
+
+
+# About me 👨‍💻 
 ## Aspiring SOC Analyst
 
 🛡️ Passionate about cybersecurity with a focus on threat detection, incident response, and digital forensics.
@@ -9,34 +32,6 @@
 - Splunk Core Certified User [Credly Badge](https://www.credly.com/badges/437a849e-eb16-4257-a8aa-4c4e0be1d171) ↗️
 - Splunk Core Certified Power User [Credly Badge](https://www.credly.com/badges/437a849e-eb16-4257-a8aa-4c4e0be1d171) ↗️
 - Fortinet Certified Cybersecurity Fundamentals [Credly Badge](https://www.credly.com/badges/2341f9b6-e592-4212-8730-ba0391706cae) ↗️
-
-
-## 🚀 Advanced Projects
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Docker-Orchestrated SOAR Environment on Oracle Cloud](https://github.com/cybersoel/CloudDockerSoar) | Building a Security Orchestration, Automation, and Response environment with automated threat detection and response | Oracle Cloud, Suricata, Wazuh, MISP, TheHive, Shuffle, Docker |
-| [AWS Corporate DMZ Architecture with VPN and CloudWatch Security Monitoring](https://github.com/cybersoel/CorporateDMZAWS) | Comprehensive DMZ setup with front-end and back-end firewalls, public-facing services, and secure remote access | AWS VPC, EC2, Security Groups, NACLs, VPN, CloudWatch |
-
-
-## 🚀 More Projects
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Active Directory Home Lab](https://github.com/cybersoel/ActiveDirectoryLab) | Set up a virtualized AD domain controller, automated user account creation | Oracle VM VirtualBox, PowerShell |
-| [Azure Sentinel (SIEM) Lab](https://github.com/cybersoel/AzureSentinelSIEMLab) | Deployed honeypot VM, monitored Windows Event Logs, analyzed global RDP attacks | Azure, PowerShell, Log Analytics, Azure Sentinel |
-| [Lab: Azure Entra & AD Connect](https://github.com/cybersoel/LabAzureEntraADConnect) | Deployed traditional AD environment, configured Azure AD Connect for cloud-based identity management | Azure VMs, Active Directory, Azure AD Connect |
-| [PfSense Firewall VM](https://github.com/cybersoel/PfSenseFirewallVM) | Deployed pfSense as network security gateway, implemented firewall rules | pfSense, Virtualization, Network Security |
-| [Lab: Nessus Essential Vulnerability Scanner](https://github.com/cybersoel/LabNessusEssentialVulnerabilityScanner) | Executed vulnerability scans, analyzed results, implemented remediation plans | Nessus, Vulnerability Assessment |
-| [MISP Deployment](https://github.com/cybersoel/MISPMalwareInformationSharingPlatformdeployment) | Implemented Malware Information Sharing Platform, explored threat intelligence capabilities | MISP, Threat Intelligence |
-| [Wireshark lab: Telnet sniffing](https://github.com/cybersoel/WiresharklabTelnetsniffing) | Conducted network packet capture, intercepted unencrypted credentials | Wireshark, Network Analysis |
-| [Python: SHA1 Password Exploitation](https://github.com/cybersoel/PythonSHA1PasswordExploitation) | Developed custom password cracking tool targeting SHA1 hashed passwords | Python, Cryptography |
-| [Recovering a JPG file from a RAM dump](https://github.com/cybersoel/RecoveringaJPGfilefromaRAMdump) | Conducted memory forensics using manual file carving techniques | Digital Forensics, Hex Editor |
-| [Volatility 3: Memory Forensics](https://github.com/cybersoel/Volatility3MemoryForensics) | Analyzed process execution, network connections, and system artifacts from memory dumps | Volatility 3, Memory Forensics |
-
-### Upcoming Projects
-- Malware Analysis Lab
-
 
 
 ## 🎓 Education
